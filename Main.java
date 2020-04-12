@@ -13,9 +13,7 @@ package ru.geekbrains.java2.hw3;
 *    тогда при запросе такой фамилии должны выводиться все телефоны.
 */
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 class Main {
